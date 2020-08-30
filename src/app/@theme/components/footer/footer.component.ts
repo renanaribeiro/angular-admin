@@ -9,9 +9,9 @@ import { Component } from '@angular/core';
     </span>
     <div class="socials">
       <a href="https://github.com/renanaribeiro" target="_blank" class="ion ion-social-github"></a>
-      <a href="https://www.linkedin.com/in/renanaribeiro/" target="_blank" class="ion ion-social-facebook"></a>
+      <a href="https://www.facebook.com/trukoparker/" target="_blank" class="ion ion-social-facebook"></a>
       <a href="#" target="_blank" class="ion ion-social-twitter"></a>
-      <a href="https://www.facebook.com/trukoparker/" target="_blank" class="ion ion-social-linkedin"></a>
+      <a href="https://www.linkedin.com/in/renanaribeiro/" target="_blank" class="ion ion-social-linkedin"></a>
     </div>
   `,
 })
